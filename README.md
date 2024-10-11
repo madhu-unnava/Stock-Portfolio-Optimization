@@ -15,7 +15,7 @@ Performance Benchmarking: Compared the optimized portfolio’s performance again
 To run this project on your local machine:
 Clone the repository:
 
-git clone https://github.com/yourusername/portfolio-optimization.git
+git clone https://github.com/madhu-unnava/Stock-Portfolio-Optimization.git
 
 Install dependencies: Follow the instructions in the setup_guide.md to install all required Python, R, and SQL dependencies.
 Load data: Use the included scripts to fetch stock data from Yahoo Finance and load it into PostgreSQL.
